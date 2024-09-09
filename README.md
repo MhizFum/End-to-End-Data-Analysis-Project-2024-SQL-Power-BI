@@ -32,3 +32,21 @@ One of the most important tasks of the project is to give recommendations for ad
 
 
 ![Screenshot(5)](https://github.com/user-attachments/assets/8d015c67-01e0-43bc-b9f3-970013487daa)
+
+
+## More explanations
+
+### Explanation
+This project involves developing a performance dashboard for Toman Bike Shop. The main goal is to track key metrics such as revenue, profit trends, rider demographics, and seasonal patterns, all of which will help the company make data-driven decisions to improve its operations and profits.
+
+### Key components of the project include:
+
+Hourly Revenue Analysis: Helps understand what times of the day generate the most revenue, indicating peak business hours.
+Profit and Revenue Trends: Shows how profit and revenue have changed over time, identifying patterns or areas for improvement.
+Seasonal Revenue: Provides insights into how different seasons affect sales, allowing for better seasonal marketing and product planning.
+Rider Demographics: Gives a detailed understanding of customer profiles, helping to fine-tune marketing strategies and product offerings.
+
+The data is stored in a SQL database, ensuring reliability, and includes variables like the day, season, year, and hour, allowing for precise analysis.
+
+An important part of the project is the recommendation on price adjustments for the next year. This requires deep analysis of the data to find opportunities to maximize revenue while staying competitive.
+
