@@ -42,8 +42,11 @@ This project involves developing a performance dashboard for Toman Bike Shop. Th
 ### Key components of the project include:
 
 Hourly Revenue Analysis: Helps understand what times of the day generate the most revenue, indicating peak business hours.
+
 Profit and Revenue Trends: Shows how profit and revenue have changed over time, identifying patterns or areas for improvement.
+
 Seasonal Revenue: Provides insights into how different seasons affect sales, allowing for better seasonal marketing and product planning.
+
 Rider Demographics: Gives a detailed understanding of customer profiles, helping to fine-tune marketing strategies and product offerings.
 
 The data is stored in a SQL database, ensuring reliability, and includes variables like the day, season, year, and hour, allowing for precise analysis.
