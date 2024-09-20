@@ -90,3 +90,31 @@ Weekday Business Strategies: Since Tuesday through Friday generate the most reve
 
 Weekend Revenue Improvement: Consider implementing special promotions or events during weekends to boost ridership and revenue. This could include family discounts, weekend passes, or partnerships with local attractions to create package deals that attract more customers.
 
+
+
+### Profit and Revenue Trends
+
+SHOWS AN INCREASE IN REVENUE and riders IN Q3 IN 2022 COMPARED TO 2021 nd revnue started declining in q4
+
+recommendation: 
+
+Analyze Q3 Success Factors: Identify key factors that led to the revenue and ridership increase in Q3 of 2022 compared to 2021. This could include successful marketing campaigns, favorable economic conditions, or new service offerings. Replicate these strategies in future quarters to sustain growth.
+
+Address Q4 Decline: Investigate the causes of the revenue decline in Q4 2022. Common factors could include seasonal changes, reduced commuter traffic due to holidays, or economic downturns. Based on these findings, introduce initiatives to counteract the dip, such as holiday promotions, discounted tickets, or special events to maintain customer interest.
+
+Seasonal Campaigns: Q4 often sees a natural dip in ridership due to holidays and weather. To mitigate this, consider launching seasonal campaigns, such as winter specials, family packages, or holiday-themed services that encourage leisure ridership during the slower months.
+
+
+### Rider Demographics
+
+The chart shows that registered riders significantly outnumber casual riders, with over four times the total number of rides taken by registered users compared to casual users.
+
+Recommendations:
+
+Enhance Registered Rider Benefits: Strengthen the value proposition for registered riders by offering exclusive perks, such as discounts on future rides, access to premium services, or loyalty points. This will encourage retention and continued engagement.
+
+Targeted Marketing for Casual Riders: Implement marketing campaigns aimed at casual riders to encourage them to register. Highlight the benefits of becoming a registered user, such as lower rates, special promotions, or rewards for frequent usage.
+
+Incentives for Conversion: Create incentives for casual riders to sign up, such as a discount on their first ride after registration or a limited-time offer that rewards them for their initial rides as a registered user.
+
+Feedback Mechanism: Establish a system to gather feedback from both registered and casual riders. Understanding their needs and preferences can help tailor services and improve overall customer satisfaction.
