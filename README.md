@@ -120,4 +120,40 @@ Incentives for Conversion: Create incentives for casual riders to sign up, such 
 Feedback Mechanism: Establish a system to gather feedback from both registered and casual riders. Understanding their needs and preferences can help tailor services and improve overall customer satisfaction.
 
 ### Recommendation on Price Increase
+![alt_text](https://github.com/MhizFum/End-to-End-Data-Analysis-Project-2024-SQL-Power-BI/blob/858be25a39bd13914e9156311c2df238483f2903/image.png)
 
+
+when we raise the price by $1, we say a gigantic increase in revenue and profit.
+
+lets see how much percentage change in price led to increase in riders
+
+(4.99-3.99)/3.99 = 0.25062 times 100 = 25% increase in price
+
+(2049576-1243103)/1243103 = 0.648757 times 100 = 64%
+
+To determine the price elasticity of demand in this scenario, you can use the formula:
+
+𝑃𝐸𝐷= %Change in Quantity Demanded / % Change in Price
+
+Given:
+% Change in Price = 25%
+% Change in Quantity Demanded = 64%
+Calculating the elasticity:
+
+PED = 64%/25% =2.56
+This indicates that the demand is elastic, meaning that the quantity demanded is highly responsive to price changes.
+
+Recommendation:
+
+Consider Strategic Price Increases: Since a 25% price increase led to a significant 64% rise in riders, it may be beneficial to explore further price adjustments, ensuring that any increases do not negatively impact rider loyalty or overall customer satisfaction.
+
+Suggested Price Increase:
+Moderate Increase: Consider a price increase in the range of 5% to 10% for the coming year. This allows you to test the waters without risking significant loss of riders.
+
+Promote Value to Justify Prices: Emphasize the value and benefits of your services to justify higher prices. This can include improved services, premium offerings, or additional features that enhance the riding experience.
+
+Test Pricing Strategies: Experiment with different pricing models or promotional offers, such as limited-time discounts or bundled packages, to find the optimal price point that maximizes revenue without alienating riders.
+
+Monitor Rider Response: Continuously track rider behavior and feedback after any price changes to ensure that the adjustments are positively received and to identify any potential adverse effects.
+
+Explore Customer Segmentation: Analyze different rider segments to tailor pricing strategies. For instance, casual riders may respond differently to price changes than registered users, allowing for targeted promotions that cater to each group.
