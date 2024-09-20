@@ -73,3 +73,6 @@ The data is stored in a SQL database, ensuring reliability, and includes variabl
 
 An important part of the project is the recommendation on price adjustments for the next year. This requires deep analysis of the data to find opportunities to maximize revenue while staying competitive.
 
+# DASHBOARD AND ANALYSIS
+
+![Alt text](https://github.com/MhizFum/End-to-End-Data-Analysis-Project-2024-SQL-Power-BI/blob/2ed05cf2d20284c998cfdebc61203dcda4ec31be/TOMANDASHBOARD.jpg)
