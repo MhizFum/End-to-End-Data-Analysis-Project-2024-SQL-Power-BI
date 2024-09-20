@@ -51,7 +51,7 @@ One of the most important tasks of the project is to give recommendations for ad
 ## Data Processing
 Database was loaded into the SQL platform and data was combined from two yearly bike share tables (bike_share_yr_0 and bike_share_yr_1) into a common table expression (CTE). Various fields were selected, and the revenue and profit were computed. This combined data was later joined with the cost_table on the yr field to integrate cost-related information.
 
-
+![Alt text](End-to-End-Data-Analysis-Project-2024-SQL-Power-BI/SQLCODE.jpg "Optional Title")
 
 
 ## More explanations
