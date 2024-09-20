@@ -118,3 +118,6 @@ Targeted Marketing for Casual Riders: Implement marketing campaigns aimed at cas
 Incentives for Conversion: Create incentives for casual riders to sign up, such as a discount on their first ride after registration or a limited-time offer that rewards them for their initial rides as a registered user.
 
 Feedback Mechanism: Establish a system to gather feedback from both registered and casual riders. Understanding their needs and preferences can help tailor services and improve overall customer satisfaction.
+
+### Recommendation on Price Increase
+
