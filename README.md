@@ -76,3 +76,17 @@ An important part of the project is the recommendation on price adjustments for 
 # DASHBOARD AND ANALYSIS
 
 ![Alt text](https://github.com/MhizFum/End-to-End-Data-Analysis-Project-2024-SQL-Power-BI/blob/2ed05cf2d20284c998cfdebc61203dcda4ec31be/TOMANDASHBOARD.jpg)
+
+## ANALYSIS
+
+### Hourly Revenue Generation Analysis
+The table on the dashboard showed that revenue peaked significantly during the morning hours (8-9 AM) and again in the late afternoon to early evening (4-6 PM) on weekdays, indicating higher ridership likely due to commuter traffic. On average Weekdays show a consistent pattern of higher revenue compared to weekends, with Friday and mid-week (Tuesday to Thursday) generally generating the most revenue, suggesting that these days are key for business optimization efforts.
+
+Recommendation:
+
+Optimize Peak Hours: Focus on increasing capacity, staffing, and operational efficiency during peak hours (8-9 AM and 4-6 PM) to accommodate higher ridership and maximize revenue. Consider offering promotions or loyalty incentives during these periods to encourage repeat customers.
+
+Weekday Business Strategies: Since Tuesday through Friday generate the most revenue, tailor marketing and service offerings to these high-performing days. This could involve targeted promotions, peak-hour service improvements, or adjusting prices slightly to capture the higher demand.
+
+Weekend Revenue Improvement: Consider implementing special promotions or events during weekends to boost ridership and revenue. This could include family discounts, weekend passes, or partnerships with local attractions to create package deals that attract more customers.
+
